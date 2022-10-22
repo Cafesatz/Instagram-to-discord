@@ -30,7 +30,7 @@ import time
 
 INSTAGRAM_USERNAME = os.environ.get('rwtaici')
 WEBHOOK_URL = os.environ.get('https://discordapp.com/api/webhooks/1033374042822021200/-kT5lTl5wfAYdpibFKT-Ol6ksTR26V23T_Lj1GFl8SUP4WttE_hw-3Knjt8eOwFcWzAM')
-TIME_INTERVAL = os.environ.get('600')
+TIME_INTERVAL = os.environ.get('2')
 
 # ----------------------- Do not modify under this line ----------------------- #
 
